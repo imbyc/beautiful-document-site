@@ -1,3 +1,6 @@
 [submodule "docs.openzeppelin.com"]
 	path = docs.openzeppelin.com
 	url = https://github.com/OpenZeppelin/docs.openzeppelin.com.git
+[submodule "docsify"]
+	path = docsify
+	url = https://github.com/docsifyjs/docsify.git
