@@ -4,3 +4,6 @@
 [submodule "docsify"]
 	path = docsify
 	url = https://github.com/docsifyjs/docsify.git
+[submodule "honkit"]
+	path = honkit
+	url = https://github.com/honkit/honkit.git
