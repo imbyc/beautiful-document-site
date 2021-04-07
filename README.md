@@ -34,6 +34,8 @@
 
 > A modular documentation site generator. Designed for users of Asciidoctor.
 
+> The multi-repository documentation site generator for tech writers who ❤️ writing in AsciiDoc.
+
 ### project use this tool
 
 - https://github.com/OpenZeppelin/docs.openzeppelin.com
