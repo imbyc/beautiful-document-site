@@ -8,11 +8,11 @@
 
 ### themes
 
-- [mkdocs-material](https://github.com/squidfunk/mkdocs-material)：A Material Design theme for MkDocs
+- [squidfunk/mkdocs-material](https://github.com/squidfunk/mkdocs-material)：A Material Design theme for MkDocs
 
 ### project use this tool
 
-- https://github.com/ConsenSys/doc.goquorum
+- [ConsenSys/doc.goquorum](https://github.com/ConsenSys/doc.goquorum)
 
 ## [GitBook](https://github.com/GitbookIO/gitbook)
 
@@ -38,7 +38,7 @@
 
 ### project use this tool
 
-- https://github.com/OpenZeppelin/docs.openzeppelin.com
+- [OpenZeppelin/docs.openzeppelin.com](https://github.com/OpenZeppelin/docs.openzeppelin.com)
 
 ## [Docsify](https://github.com/docsifyjs/docsify)
 
@@ -52,4 +52,4 @@
 
 ### project use this tool
 
-- [postman-docs](https://github.com/postmanlabs/postman-docs)
+- [postmanlabs/postman-docs](https://github.com/postmanlabs/postman-docs)
