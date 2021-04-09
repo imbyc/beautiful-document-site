@@ -58,6 +58,8 @@
 
 [antvis/gatsby-theme-antv](https://github.com/antvis/gatsby-theme-antv)  [antvis/gatsby-starter-theme-antv](https://github.com/antvis/gatsby-starter-theme-antv)
 
+[vito24/gatsby-theme-antd-docs](https://github.com/vito24/gatsby-theme-antd-docs)
+
 [Rocketseat/gatsby-starter-rocket-docs](https://github.com/Rocketseat/gatsby-starter-rocket-docs)
 
 [YvesCoding/rcpress](https://github.com/YvesCoding/rcpress)
