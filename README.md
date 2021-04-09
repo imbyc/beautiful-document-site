@@ -54,6 +54,10 @@
 
 > Build blazing fast, modern apps and websites with React
 
+### themes
+
+[antvis/gatsby-theme-antv](https://github.com/antvis/gatsby-theme-antv)
+
 ### project use this tool
 
 - [postmanlabs/postman-docs](https://github.com/postmanlabs/postman-docs)
