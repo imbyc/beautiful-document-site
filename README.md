@@ -56,7 +56,7 @@
 
 ### themes
 
-[antvis/gatsby-theme-antv](https://github.com/antvis/gatsby-theme-antv)
+[antvis/gatsby-theme-antv](https://github.com/antvis/gatsby-theme-antv)  [antvis/gatsby-starter-theme-antv](https://github.com/antvis/gatsby-starter-theme-antv)
 
 [Rocketseat/gatsby-starter-rocket-docs](https://github.com/Rocketseat/gatsby-starter-rocket-docs)
 
