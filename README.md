@@ -64,6 +64,8 @@
 
 [YvesCoding/rcpress](https://github.com/YvesCoding/rcpress)
 
+[mlent/gatsby-theme-help-center](https://github.com/mlent/gatsby-theme-help-center) : help center
+
 ### project use this tool
 
 - [postmanlabs/postman-docs](https://github.com/postmanlabs/postman-docs)
