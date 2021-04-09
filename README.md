@@ -58,6 +58,8 @@
 
 [antvis/gatsby-theme-antv](https://github.com/antvis/gatsby-theme-antv)
 
+[Rocketseat/gatsby-starter-rocket-docs](https://github.com/Rocketseat/gatsby-starter-rocket-docs)
+
 ### project use this tool
 
 - [postmanlabs/postman-docs](https://github.com/postmanlabs/postman-docs)
