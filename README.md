@@ -73,6 +73,8 @@
 
 ## [vuepress](https://github.com/vuejs/vuepress)
 
+> 📝 Minimalistic Vue-powered static site generator
+
 ### themes
 
 - 
@@ -83,6 +85,8 @@
 
 
 ## [docusaurus](https://github.com/facebook/docusaurus)
+
+> Easy to maintain open source documentation websites.
 
 ### themes
 
