@@ -82,7 +82,7 @@
 - https://vuepress.vuejs.org/guide/getting-started.html
 
 
-### [docusaurus](https://github.com/facebook/docusaurus)
+## [docusaurus](https://github.com/facebook/docusaurus)
 
 ### themes
 
